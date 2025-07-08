@@ -3,3 +3,8 @@ FleetEncounter was awarded the Best Project of the Year at Harbin Institute of T
 FleetEncounter, based on the classic airplane battle gameplay, features newly developed modes such as two-player battles and online multiplayer. It is compatible with both PC and mobile platforms. We used high-quality textures to provide players with an engaging and enjoyable gaming experience.
 # Google drive
 You can get from google drive:https://drive.google.com/file/d/1loINHJuFTxrg2ML9QUhqfNrw638cuPAu/view?usp=sharing
+## 📹 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/QEBKcMXNZrI/0.jpg)](https://youtu.be/QEBKcMXNZrI)
+
+> 📺 Click the image above to watch the demo on YouTube.
